@@ -1,0 +1,11 @@
+server:
+  port: 8082
+  context-path: /springboot
+
+personName: Trendy
+personUniversity: GDUFS
+personAge: 23
+
+game:
+  name: GTA5
+  type: ARPG
